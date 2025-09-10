@@ -1,3 +1,6 @@
+> [!Warning]
+> **DAILY BOTS AND ALL ASSOCIATED DEMOS HAVE BEEN SUNSETTED AND REPLACED BY [PIPECAT CLOUD](https://www.daily.co/products/pipecat-cloud/)**
+
 # Building a Call Tree With Daily Bots
 
 This demo shows how you can build an IVR-style phone call tree powered by an LLM using Daily Bots.
